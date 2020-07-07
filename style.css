@@ -49,6 +49,7 @@ section>h2 {
 }
 #nav-list {
   margin-top: 10px;
+  float:right;
 }
 #nav-list a {
   color: #951C49;
